@@ -34,7 +34,7 @@ const Navbar = () => {
                 <ul className="space-y-2">
                     <NavItem href="/applications" label="APIs" />
                     <NavItem href="/auditlog" label="Audit Log" />
-                    <NavItem href="/rootkey" label="Root Key" />
+                    <NavItem href="/rootkey" label="Root KKKKey" />
                     <NavItem href="/docs" label="Docs" />
                     <div onClick={handleLogout}><NavItem onClick={handleLogout} label="Logout" href="login"/></div>
                     
